@@ -1,1 +1,1 @@
-
+This test measures the ability to quicly detect which side of two dot arrays (presented as an image) has more dots as quicly and as accurately as possible. The dot arrays are presented for 0.75s on a fixation cross, after which only the fixation cross remains on the screen for 3s, followed by a pause of 1.5s before the next image is shown.
