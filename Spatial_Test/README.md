@@ -14,3 +14,7 @@ Bug that caused comparison function to not work properly fixed
 Only one comparison function is now used for all users to reduce lines of code
 Consent form separated into two functions that are called upon in the main test
 A graphical representation of user results added to the comparison function
+
+Update 3: on 21.03.2024, version 1.3
+In the main test code: descriptions added to  the consent forms 1 and 2, modified visual representation of user results with axis switched.
+The main test code conversted to a python file, which is called upon in the version 1.3 Notebook
