@@ -1,10 +1,13 @@
 # Memory Test Code (Group 6)
 
-This test starts by asking for some information from the respondent for data analysis. 
+The full test starts by asking for respondents to provide consent to data collection.
+If consent is not given, the test does not run. 
+Once consent is given, respondents are first asked to provide some demographic information for data analysis.
 The test itself has 3 levels in total, in increasing difficulty.
-For each level, the respondent will have 15 seconds to observe a picture.
+For each level, respondents will have 15 seconds to observe a picture.
 After 15 seconds, they will then have to answer 5 questions about the picture.
-Once all 3 levels are completed, they are asked to provide consent for uploading their data to our repository.
+Once all 3 levels are completed, the responses are uploaded to Google Forms.
+Respondents are shown their results, and a plot that compares their performance to the mean results.
 
 V2.0.0 Updates:
 - Functions are stored in a Python code file and is imported into Notebook to run test
