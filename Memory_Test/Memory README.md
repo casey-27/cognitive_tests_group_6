@@ -7,6 +7,7 @@ After 15 seconds, they will then have to answer 5 questions about the picture.
 Once all 3 levels are completed, they are asked to provide consent for uploading their data to our repository.
 
 V2.0.0 Updates:
+- Functions are stored in a Python code file and is imported into Notebook to run test
 - Users are asked to provide consent to data collection before test starts, rather than after completing the test
 - User responses to each individual question are uploaded to Google Forms
 - “Press enter to continue” commands were changed to buttons
