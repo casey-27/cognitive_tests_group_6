@@ -10,7 +10,7 @@ Once all 3 levels are completed, the responses are uploaded to Google Forms.
 Respondents are shown their results, and a plot that compares their performance to the mean results.
 
 V2.0.0 Updates:
-- Functions are stored in a Python code file and is imported into Notebook to run test
+- Functions are stored in a Python code file (memory_test_v2.py) and is imported into Notebook (Memory Test V2.0.0.ipynb) to run test
 - Users are asked to provide consent to data collection before test starts, rather than after completing the test
 - User responses to each individual question are uploaded to Google Forms
 - “Press enter to continue” commands were changed to buttons
