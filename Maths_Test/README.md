@@ -4,7 +4,7 @@ This code has 3 types of maths questions, addition multiplication and division. 
 
 Updates between V1 to V2:
 - The questions are split into levels
-- The test has been organised into different cells
+- The test has been organised into different function
 - The entire code is now called upon by one function
 - The users score is displayed on a box plot at the end comparing it to other participants scores
 - The button for data consent is now at the beginning of the test
